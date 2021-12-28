@@ -1,0 +1,9 @@
+Package: com.skrypton.senzubeans
+Name: senzuBeans
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: skrypton
+Author: skrypton
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
